@@ -1,0 +1,73 @@
+Posicion: (0,3)
+Heuristica sin nave: 14
+____________
+Posicion: (2,6)
+Heuristica sin nave: 13
+____________
+Posicion: (2,9)
+Heuristica sin nave: 8
+____________
+Posicion: (8,9)
+Heuristica sin nave: 2
+____________
+Posicion: (9,9)
+Heuristica sin nave: 1
+____________
+Posicion: (9,8)
+Heuristica sin nave: 0
+____________
+Posicion: (0,3)
+Heuristica con nave: 7.0
+____________
+Posicion: (2,6)
+Heuristica con nave: 4.5
+____________
+Posicion: (2,9)
+Heuristica con nave: 4.0
+____________
+Posicion: (8,9)
+Heuristica con nave: 1.0
+____________
+Posicion: (9,9)
+Heuristica con nave: 0.5
+____________
+Posicion: (9,8)
+Heuristica con nave: 0.0
+____________
+**********
+Posicion: (0,3)
+Heuristic_altern sin nave: 10.295630140987
+____________
+Posicion: (2,6)
+Heuristic_altern sin nave: 11.280109889280517
+____________
+Posicion: (2,9)
+Heuristic_altern sin nave: 7.0710678118654755
+____________
+Posicion: (8,9)
+Heuristic_altern sin nave: 1.4142135623730951
+____________
+Posicion: (9,9)
+Heuristic_altern sin nave: 1.0
+____________
+Posicion: (9,8)
+Heuristic_altern sin nave: 0.0
+____________
+Posicion: (0,3)
+Heuristic_altern con nave: 5.1478150704935
+____________
+Posicion: (2,6)
+Heuristic_altern con nave: 3.640054944640259
+____________
+Posicion: (2,9)
+Heuristic_altern con nave: 3.5355339059327378
+____________
+Posicion: (8,9)
+Heuristic_altern con nave: 0.7071067811865476
+____________
+Posicion: (9,9)
+Heuristic_altern con nave: 0.5
+____________
+Posicion: (9,8)
+Heuristic_altern con nave: 0.0
+____________
